@@ -1,0 +1,23 @@
+<package>
+	<id>ru.rejail.ext3nder-installer</id>
+	<name>Ext3nder Installer</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.x</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Installs Ext3nder Installer</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
