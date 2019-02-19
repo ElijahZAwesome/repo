@@ -1,0 +1,21 @@
+<package>
+	<id>com.memeinc.nfcwriterx</id>
+	<name>NFC Writer X</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.x</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			
+		</firmware>
+	</compatibility>
+	<dependencies />
+	<descriptionlist>
+		<description>Unlocks the power of your NFC Chip with more features!</description>
+	</descriptionlist>
+	<screenshots />
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>
