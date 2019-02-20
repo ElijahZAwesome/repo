@@ -1,0 +1,21 @@
+<package>
+	<id>com.memeinc.swordbot</id>
+	<name>SwordBot</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			
+		</firmware>
+	</compatibility>
+	<dependencies />
+	<descriptionlist>
+		<description>Run a Discord bot in the palm of your hand!</description>
+	</descriptionlist>
+	<screenshots />
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>
