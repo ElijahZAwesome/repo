@@ -1,0 +1,22 @@
+<package>
+	<id>com.memeinc.libbulletin</id>
+	<name>libbulletin</name>
+	<version>0.1-142</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			
+		</firmware>
+	</compatibility>
+	<dependencies />
+	<descriptionlist>
+		<description>Simple library that displays bulletins</description>
+	</descriptionlist>
+	<screenshots />
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>
